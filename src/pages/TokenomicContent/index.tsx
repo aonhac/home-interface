@@ -80,10 +80,10 @@ const TokenomicContent = () => {
                     <Text color='#767676'>&nbsp;{t('With new smartcontract we will reward holders in BNB using 5% tax sell. No need to do anything just hold $PUG token and you will have BNB to your wallet. Hold more and more BNB rewards.')}</Text>
                 </Row3>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('2% HOLDER Rewards:Pug Inu Rewards its community as a Priority.')}</Text>
+                <Text color='#767676'>{t('2% HOLDER Rewards: Pug Inu Rewards its community as a Priority.')}</Text>
                 <Spacer height="40px" />
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('3% Marketing: 3% of Every Sell Transaction is Distributed to the Pug Inu Team For Marketing Uses. Essentially, the Team Will Have a Stream of Funds Available to Keep Developing and Growing the Pug Inu Project to Create More Profits For You and All HOLDER.')}</Text>
+                <Text color='#767676'>{t('3% Marketing: Every Sell Transaction is Distributed to the Pug Inu Team For Marketing Uses. Essentially, the Team Will Have a Stream of Funds Available to Keep Developing and Growing the Pug Inu Project to Create More Profits For You and All HOLDER.')}</Text>
                 <Spacer height="40px" />
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('Burning Mechanisms - “Buyback & Burn”')}</SubTitle>
