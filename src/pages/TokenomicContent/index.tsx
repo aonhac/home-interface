@@ -80,6 +80,9 @@ const TokenomicContent = () => {
                     <Text color='#767676'>&nbsp;{t('With new smartcontract we will reward holders in BNB using 5% tax sell. No need to do anything just hold $PUG token and you will have BNB to your wallet. Hold more and more BNB rewards.')}</Text>
                 </Row3>
                 <Spacer height="40px" />
+                <Text color='#767676'>{t('Contract address: 0x0000000000000000000000000000000000000000')}</Text>
+                <Spacer height="40px" />
+                <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('Burning Mechanisms - “Buyback & Burn”')}</SubTitle>
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('A set of burning mechanisms will be introduced to reward the PUG token holders and liquidity providers by decreasing inflation or lead to deflation depending on the system’s utilization, trading volume, and token price.')}</Text>
