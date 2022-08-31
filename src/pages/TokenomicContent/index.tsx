@@ -26,7 +26,7 @@ const TokenomicContent = () => {
             <TopDiv>
                 <SubTitle color={Theme.colors.bgscondary}>{t('Supply and Distribution')}</SubTitle>
                 <Spacer height="40px" />
-                <SubTitle color={Theme.colors.bgscondary}>{t('Max Supply:')}<Text2 color={Theme.colors.primary}><b>&nbsp;{t('-1,000,000,000,000 $PUG.')}</b></Text2></SubTitle>
+                <SubTitle color={Theme.colors.bgscondary}>{t('Max Supply:')}<Text2 color={Theme.colors.primary}><b>&nbsp;{t('1,000,000,000,000 $PUG.')}</b></Text2></SubTitle>
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('')}</Text>
                 <Spacer height="20px" />
@@ -37,7 +37,7 @@ const TokenomicContent = () => {
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('5% Staking & Farm pool')}</Text>
+                    <Text color='#767676'>{t('15% Staking & Farm pool')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
@@ -47,20 +47,20 @@ const TokenomicContent = () => {
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('5% will be used for bug bounty programs to ensure high-security services.')}</Text>
+                    <Text color='#767676'>{t('7% will be used for bug bounty programs to ensure high-security services.')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('1% Airdrop & Bounty')}</Text>
+                    <Text color='#767676'>{t('3% Airdrop & Bounty')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row2>
-                    <Text color={Theme.colors.primary}><b>{t('Phase 1')}</b><Text2 color='#767676'>&nbsp;{t('Community participation in Pug Inu Social - 0.5%')}</Text2></Text>
+                    <Text color={Theme.colors.primary}><b>{t('Phase 1')}</b><Text2 color='#767676'>&nbsp;{t('Community participation in Pug Inu Social - 1.5%')}</Text2></Text>
                 </Row2>
                 <Spacer height="10px" />
                 <Row2>
-                    <Text color={Theme.colors.primary}><b>{t('Phase 2')}</b><Text2 color='#767676'>&nbsp;{t('PancakeSwap Active Users Airdrop - 0.5%')}</Text2></Text>
+                    <Text color={Theme.colors.primary}><b>{t('Phase 2')}</b><Text2 color='#767676'>&nbsp;{t('PancakeSwap Active Users Airdrop - 1.5%')}</Text2></Text>
                 </Row2>
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('Token Info')}</SubTitle>
@@ -70,6 +70,8 @@ const TokenomicContent = () => {
                 <Text color='#767676'>{t('Token Name: Pug Inu Finance')}</Text>
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('Token Symbol: PUG')}</Text>
+                <Spacer height="40px" />
+                <Text color='#767676'>{t('Contract address: 0x0000000000000000000000000000000000000000')}</Text>
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('Fees Distribution Phases Details')}</SubTitle>
                 <Spacer height="40px" />
