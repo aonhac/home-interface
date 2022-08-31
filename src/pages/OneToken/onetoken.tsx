@@ -5,7 +5,7 @@ import { Theme } from 'constants/theme';
 import { Assets } from 'constants/images';
 import { useTranslation } from 'contexts/Localization';
 
-const desc = `Using the industry's most advanced token technology,\nPug Inu Finance introduces the "1-Click Swap" feature for the very first time,\nproviding users with an entirely new experience at 99% less cost than the leading competitors.`
+const desc = `Simply stake your assets in the corresponding pool to start earning PUG token rewards!`
 
 const OneToken = () => {
     const { t } = useTranslation()
@@ -23,10 +23,10 @@ const OneToken = () => {
                 </Text>
                 <Spacer height="50px" />
                 <LiButton
-                    href="https://puginu.finance/#/swap"
+                    href="https://app.puginu.finance/"
                     target="_blank"
                 >
-                    {t('Launch Pug Inu Finance')}
+                    {t('Yield Farming')}
                 </LiButton>
             </Wrapper>
             
