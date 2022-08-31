@@ -26,18 +26,18 @@ const TokenomicContent = () => {
             <TopDiv>
                 <SubTitle color={Theme.colors.bgscondary}>{t('Supply and Distribution')}</SubTitle>
                 <Spacer height="40px" />
-                <SubTitle color={Theme.colors.bgscondary}>{t('Max Supply:')}<Text2 color={Theme.colors.primary}><b>&nbsp;{t('600 000 000 $PUG.')}</b></Text2></SubTitle>
+                <SubTitle color={Theme.colors.bgscondary}>{t('Max Supply:')}<Text2 color={Theme.colors.primary}><b>&nbsp;{t('-1,000,000,000,000 $PUG.')}</b></Text2></SubTitle>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('120 000 000 $PUG (20% of the max supply) will be created at the genesis and distributed as follows:')}</Text>
+                <Text color='#767676'>{t('')}</Text>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('75% to Initial Dex Offering early investors. The funds raised will be moved to the distributed insurance system.')}</Text>
+                    <Text color='#767676'>{t('70% to Initial Dex Offering early investors. The funds raised will be moved to the distributed insurance system.')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('')}</Text>
+                    <Text color='#767676'>{t('5% Staking & Farm pool')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
@@ -52,45 +52,37 @@ const TokenomicContent = () => {
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('10% will be airdropped in 2 consecutive phases, the details of each phase being announced at the time of its launch.')}</Text>
+                    <Text color='#767676'>{t('1% Airdrop & Bounty')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row2>
-                    <Text color={Theme.colors.primary}><b>{t('Phase 1')}</b><Text2 color='#767676'>&nbsp;{t('Community participation in Pug Inu Social -1 500 000 $PUG tokens')}</Text2></Text>
+                    <Text color={Theme.colors.primary}><b>{t('Phase 1')}</b><Text2 color='#767676'>&nbsp;{t('Community participation in Pug Inu Social - 0.5%')}</Text2></Text>
                 </Row2>
                 <Spacer height="10px" />
                 <Row2>
-                    <Text color={Theme.colors.primary}><b>{t('Phase 2')}</b><Text2 color='#767676'>&nbsp;{t('PancakeSwap Active Users Airdrop -1 500 000 $PUG tokens')}</Text2></Text>
+                    <Text color={Theme.colors.primary}><b>{t('Phase 2')}</b><Text2 color='#767676'>&nbsp;{t('PancakeSwap Active Users Airdrop - 0.5%')}</Text2></Text>
                 </Row2>
                 <Spacer height="40px" />
-                <SubTitle color={Theme.colors.bgscondary}>{t('Transaction Fees Distribution')}</SubTitle>
+                <SubTitle color={Theme.colors.bgscondary}>{t('Token Info')}</SubTitle>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('For each trade/swap performed in the Pug Inu Finance platform, a commission fee is applied. Initially, 100% of the collected fee will be split among the liquidity providers. Over time, it will decrease to 55% by year 5 (phase 2).')}</Text>
+                <Text color='#767676'>{t('Token Network: Binance Smart Chain')}</Text>
                 <Spacer height="20px" />
-                <Text color='#767676'>{t('Thus, up to 20% of the trading fee will be shared among PUG token holders, 5% will be allocated to the insurance fund for its operation, and finally, 20% will be used to buy back Pug tokens and burn them.')}</Text>
+                <Text color='#767676'>{t('Token Name: Pug Inu Finance')}</Text>
+                <Spacer height="40px" />
+                <Text color='#767676'>{t('Token Symbol: PUG')}</Text>
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('Fees Distribution Phases Details')}</SubTitle>
                 <Spacer height="40px" />
                 <Row3>
-                    <Text3 color={Theme.colors.primary}><b>{t('Phase 0')}</b>&nbsp;&nbsp;&nbsp;</Text3>
-                    <Text color='#767676'>&nbsp;{t('The trading fee is set to 0.2% of the volume of each transaction.')}</Text>
-                </Row3>
-                <Spacer height="20px" />
-                <Row3>
-                    <Text3 color={Theme.colors.primary}><b>{t('Phase 1')}</b>&nbsp;&nbsp;&nbsp;</Text3>
-                    <Text color='#767676'>&nbsp;{t('Pug Inu Finance will use variable fees from 0.3% to 0.5% to audit the newly listed tokens and increase the platform’s liquidity (lower fee will be applied to larger trades).')}</Text>
-                </Row3>
-                <Spacer height="20px" />
-                <Row3>
-                    <Text3 color={Theme.colors.primary}><b>{t('Phase 2')}</b>&nbsp;&nbsp;&nbsp;</Text3>
-                    <Text color='#767676'>&nbsp;{t('In this phase, the trading fee will vary between 0.3% and 0.15% for the audited tokens and the unaudited between 0.5%-0.35%.')}</Text>
+                    <Text3 color={Theme.colors.primary}><b>{t('Holder')}</b>&nbsp;&nbsp;&nbsp;</Text3>
+                    <Text color='#767676'>&nbsp;{t('With new smartcontract we will reward holders in BNB using 5% tax sell. No need to do anything just hold $PUG token and you will have BNB to your wallet. Hold more and more BNB rewards.')}</Text>
                 </Row3>
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('Burning Mechanisms - “Buyback & Burn”')}</SubTitle>
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('A set of burning mechanisms will be introduced to reward the PUG token holders and liquidity providers by decreasing inflation or lead to deflation depending on the system’s utilization, trading volume, and token price.')}</Text>
                 <Spacer height="20px" />
-                <Text color='#767676'>{t('The burning mechanism will receive a percentage ranging from 15% to 30% of the total trading fee.')}<Text color={Theme.colors.primary}>&nbsp;{t('Weekly, PUG tokens will be rebought and burned.')}</Text></Text>
+                <Text color='#767676'>{t('The burning mechanism will receive a percentage ranging from 5% to 10% of the total trading fee.')}<Text color={Theme.colors.primary}>&nbsp;{t('Weekly, PUG tokens will be rebought and burned.')}</Text></Text>
                 <Spacer height="20px" />
                 <Text color='#767676'>{t('The system’s adoption and utilization through transaction volume define the size of the commission fees that will be distributed both to liquidity providers and burned.')}</Text>
                 <Spacer height="40px" />
