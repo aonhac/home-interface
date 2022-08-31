@@ -38,11 +38,11 @@ const Safelistheader: React.FC = () => {
                             <NavDropdown.Item href="/roadmap">{t('Roadmap')}</NavDropdown.Item>
                             <NavDropdown.Item href="/tokenomic">{t('Tokenomics')}</NavDropdown.Item>
                             <NavDropdown.Item href="">{t('')}</NavDropdown.Item>
-                            <NavDropdown.Item href="https://puginu.finance/#/swap" target="_blank">{t('Swap')}</NavDropdown.Item>
+                            <NavDropdown.Item href="https://pancakeswap.finance/swap" target="_blank">{t('Swap')}</NavDropdown.Item>
                         </NavDropdown>
                     </Li>
                     <Li>
-                        <Nav.Link href="https://www.bnbchain.org/en/bridge" target="_blank">{t('Binance Bridge')}</Nav.Link>
+                        <Nav.Link href="https://app.puginu.finance" target="_blank">{t('Staking')}</Nav.Link>
                     </Li>
                     <LiButton href="https://www.pinksale.finance/launchpads?chain=BSC" target="_blank">
                         {t('Pug Inu Presales')}
