@@ -42,7 +42,7 @@ const Header: React.FC = () => {
                         </NavDropdown>
                     </Li>
                     <Li>
-                        <Nav.Link href="https://app.dachshundinu.io" target="_blank">{t('Staking')}</Nav.Link>
+                        <Nav.Link href="https://app.dachshundinu.io" target="_blank">{t('Staking Testnet')}</Nav.Link>
                     </Li>
                     <LiButton href="https://www.pinksale.finance/launchpads?chain=BSC" target="_blank">
                         {t('Dachshund Inu Fairlaunch')}
