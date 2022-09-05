@@ -5,7 +5,7 @@ import { Theme } from 'constants/theme';
 import { Assets } from 'constants/images';
 import { useTranslation } from 'contexts/Localization';
 
-const desc = `Simply stake your assets in the corresponding pool to start earning PUG token rewards!`
+const desc = `Simply stake your assets in the corresponding pool to start earning DHI token rewards!`
 
 const OneToken = () => {
     const { t } = useTranslation()
@@ -14,7 +14,7 @@ const OneToken = () => {
             <Wrapper >
                 <SpaceRow>
                     <Title color={Theme.colors.primary}>
-                        <Title color="#AEDD00">{t('Pug Inu')}&nbsp;</Title>{t('Finance')}
+                        <Title color="#AEDD00">{t('Dachshund')}&nbsp;</Title>{t('Inu')}
                     </Title>
                 </SpaceRow>
                 <Spacer height="50px" />
@@ -23,7 +23,7 @@ const OneToken = () => {
                 </Text>
                 <Spacer height="50px" />
                 <LiButton
-                    href="https://app.puginu.finance/"
+                    href="https://app.dachshundinu.io/"
                     target="_blank"
                 >
                     {t('Yield Farming')}
