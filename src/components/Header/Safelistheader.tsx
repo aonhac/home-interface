@@ -45,7 +45,7 @@ const Safelistheader: React.FC = () => {
                         <Nav.Link href="https://app.dachshundinu.io" target="_blank">{t('Staking')}</Nav.Link>
                     </Li>
                     <LiButton href="https://www.pinksale.finance/launchpads?chain=BSC" target="_blank">
-                        {t('Pug Inu Presales')}
+                        {t('Dachshund Inu Fairlaunch')}
                     </LiButton>
                     <Li>
                         <NavDropdown title={langTitle[`${currentLanguage.locale}`]} id="collasible-nav-dropdown">
