@@ -33,16 +33,16 @@ const Header: React.FC = () => {
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="ml-auto">
                     <Li> 
-                        <NavDropdown title={t('Soy Finance')} id="collasible-nav-dropdown">
+                        <NavDropdown title={t('Dachshund Inu')} id="collasible-nav-dropdown">
                             <NavDropdown.Item href="" target="_blank">{t('')}</NavDropdown.Item>
                             <NavDropdown.Item href="/roadmap">{t('Roadmap')}</NavDropdown.Item>
                             <NavDropdown.Item href="/tokenomic">{t('Tokenomics')}</NavDropdown.Item>
                             <NavDropdown.Item href="">{t('')}</NavDropdown.Item>
-                            <NavDropdown.Item href="https://pancakeswap.finance/swap" target="_blank">{t('Swap')}</NavDropdown.Item>
+                            <NavDropdown.Item href="https://pancakeswap.finance/swap" target="_blank">{t('Exchange')}</NavDropdown.Item>
                         </NavDropdown>
                     </Li>
                     <Li>
-                        <Nav.Link href="https://app.puginu.finance" target="_blank">{t('Staking')}</Nav.Link>
+                        <Nav.Link href="https://app.dachshundinu.io" target="_blank">{t('Staking')}</Nav.Link>
                     </Li>
                     <LiButton href="https://www.pinksale.finance/launchpads?chain=BSC" target="_blank">
                         {t('Pug Inu Presales')}
