@@ -14,7 +14,7 @@ const SoyToken = () => {
             <Wrapper >
                 <SpaceRow>
                     <Title color={Theme.colors.primary}>
-                        <Title color="#AEDD00">{t('Dachshund')}&nbsp;</Title>{t('Token')}
+                        <Title color="#AEDD00">{t('Dachshund Inu')}&nbsp;</Title>{t('Token')}
                     </Title>
                 </SpaceRow>
                 <Spacer height="50px" />
