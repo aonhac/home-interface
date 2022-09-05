@@ -39,11 +39,11 @@ const PageFooter = () => {
                             <RightsdivWeb>
                                 <Text>{t('All rights reserved by')}</Text>
                                 <Spacer height="5px" />
-                                <Text><b>{t('Pug Inu Finance')}</b></Text>
+                                <Text><b>{t('Dachshund Inu')}</b></Text>
                             </RightsdivWeb>
                         </Itemdiv>
                         <Itemdiv>                            
-                            <Text><b>{t('Pug Inu Finance')}</b></Text>
+                            <Text><b>{t('Dachshund Inu')}</b></Text>
                             <Spacer height="10px" />
                             <StyledLi href="" target="_blank">{t('')}</StyledLi>
                             <Spacer height="10px" />
@@ -58,7 +58,7 @@ const PageFooter = () => {
                             <Spacer height="10px" />
                             <StyledLi href="" target="_blank">{t('')}</StyledLi>
                             <Spacer height="10px" />
-                            <StyledLi href="https://github.com/PugInuFinance/" target="_blank">{t('Github')}</StyledLi>
+                            <StyledLi href="https://github.com/dachshundinu/" target="_blank">{t('Github')}</StyledLi>
                             <Spacer height="10px" />
                             <StyledLi href="https://bscscan.com/" target="_blank">{t('Contract')}</StyledLi>
                             <Spacer height="10px" />
@@ -83,17 +83,17 @@ const PageFooter = () => {
                             <Text align="center"><b>{t('Social Media')}</b></Text>
                             <Spacer height="10px" />
                             <Row>
-                                <StyledLi2 href="https://t.me/PugInuFinance" target="_blank"><Telegram /></StyledLi2>
-                                <StyledLi2 href="https://twitter.com/PugInu_Finance" target="_blank"><Twitter /></StyledLi2>
-                                <StyledLi2 href="https://www.reddit.com/user/Puginu_Finance/" target="_blank"><Redit /></StyledLi2>
-                                <StyledLi2 href="https://www.facebook.com/Puginu.Finance" target="_blank"><Facebook /></StyledLi2>
-                                <StyledLi2 href="https://medium.com/@puginu-finance" target="_blank"><Medium/></StyledLi2>
+                                <StyledLi2 href="https://t.me/dachshundinu" target="_blank"><Telegram /></StyledLi2>
+                                <StyledLi2 href="https://twitter.com/dachshundinu" target="_blank"><Twitter /></StyledLi2>
+                                <StyledLi2 href="https://www.reddit.com/user/dachshundinu/" target="_blank"><Redit /></StyledLi2>
+                                <StyledLi2 href="https://www.facebook.com/dachshundinu" target="_blank"><Facebook /></StyledLi2>
+                                <StyledLi2 href="https://medium.com/@dachshundinu" target="_blank"><Medium/></StyledLi2>
                             </Row>                    
                         </Itemdiv>
                     </Row2>
                     <RightsdivMob>
                         <Spacer height="30px" />
-                        <Text>{t('All rights reserved by')} <b>{t('Pug Inu Finance')}</b></Text>
+                        <Text>{t('All rights reserved by')} <b>{t('Dachshund Inu')}</b></Text>
                     </RightsdivMob>
                 </Flex>
             </BkImage>
@@ -104,10 +104,10 @@ const PageFooter = () => {
                         <Spacer height="10px" />
                         <Text>{t('All rights reserved by')}</Text>
                         <Spacer height="5px" />
-                        <Text><b>{t('Pug Inu Finance')}</b></Text>
+                        <Text><b>{t('Dachshund Inu')}</b></Text>
                     </div>
                     <div>
-                        <Text><b>{t('Pug Inu Finance')}</b></Text>
+                        <Text><b>{t('Dachshund Inu')}</b></Text>
                         <Spacer height="10px" />
                         <StyledLi href="" target="_blank">{t('')}</StyledLi>
                         <Spacer height="10px" />
@@ -122,7 +122,7 @@ const PageFooter = () => {
                         <Spacer height="10px" />
                         <StyledLi href="" target="_blank">{t('')}</StyledLi>
                         <Spacer height="10px" />
-                        <StyledLi href="https://github.com/puginufinance/" target="_blank">{t('Github')}</StyledLi>
+                        <StyledLi href="https://github.com/dachshundinu/" target="_blank">{t('Github')}</StyledLi>
                         <Spacer height="10px" />
                         <StyledLi href="https://bscscan.com/" target="_blank">{t('Contract')}</StyledLi>
                         <Spacer height="10px" />
@@ -143,11 +143,11 @@ const PageFooter = () => {
                         <Text align="center"><b>{t('Social Media')}</b></Text>
                         <Spacer height="10px" />
                         <Row>
-                                <StyledLi2 href="https://t.me/PugInuFinance" target="_blank"><Telegram /></StyledLi2>
-                                <StyledLi2 href="https://twitter.com/PugInu_Finance" target="_blank"><Twitter /></StyledLi2>
-                                <StyledLi2 href="https://www.reddit.com/user/Puginu_Finance/" target="_blank"><Redit /></StyledLi2>
-                                <StyledLi2 href="https://www.facebook.com/Puginu.Finance" target="_blank"><Facebook /></StyledLi2>
-                                <StyledLi2 href="https://medium.com/@puginu-finance" target="_blank"><Medium/></StyledLi2>
+                                <StyledLi2 href="https://t.me/dachshundinu" target="_blank"><Telegram /></StyledLi2>
+                                <StyledLi2 href="https://twitter.com/dachshundinu" target="_blank"><Twitter /></StyledLi2>
+                                <StyledLi2 href="https://www.reddit.com/user/dachshundinu/" target="_blank"><Redit /></StyledLi2>
+                                <StyledLi2 href="https://www.facebook.com/dachshundinu" target="_blank"><Facebook /></StyledLi2>
+                                <StyledLi2 href="https://medium.com/@dachshundinu" target="_blank"><Medium/></StyledLi2>
                         </Row>                    
                     </div>
                 </Flex>
