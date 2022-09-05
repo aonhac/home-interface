@@ -21,16 +21,16 @@ const SafelistContent = () => {
 
     return (
         <Container>
-            <Title color={Theme.colors.primary}>{t('Pug Inu Finance Safelisting')}</Title>
+            <Title color={Theme.colors.primary}>{t('Dachshund Inu Safelisting')}</Title>
             <Spacer height="80px" />
             <TopDiv>
                 <SubTitle color={Theme.colors.bgscondary}>{t('What Exactly is The Safelist?')}</SubTitle>
                 <Spacer height="40px" />
                 <Text color={Theme.colors.primary}>{t('Security vulnerabilities are undoubtedly the biggest challenge for the DeFI ecosystem, with losses of hundreds of millions of dollars just for 2021.')}</Text>
                 <Spacer height="20px" />
-                <Text color={Theme.colors.primary}>{t('Pug Inu Finance intends to offer the highest level of security to its users, and for this purpose, we have established the Safelist with the best security standards.')}</Text>
+                <Text color={Theme.colors.primary}>{t('Dachshund Inu intends to offer the highest level of security to its users, and for this purpose, we have established the Safelist with the best security standards.')}</Text>
                 <Spacer height="40px" />
-                <SubTitle color={Theme.colors.bgscondary}>{t('How to Safelist a Token on Pug Inu Finance?')}</SubTitle>
+                <SubTitle color={Theme.colors.bgscondary}>{t('How to Safelist a Token on Dachshund Inu?')}</SubTitle>
                 <Spacer height="40px" />
                 <Text color={Theme.colors.primary}>{t('For project representatives and community members who wish to have their project token safelisted by Pug Inu Finance, please follow the steps below:')}</Text>
                 <Spacer height="40px" />
@@ -41,7 +41,7 @@ const SafelistContent = () => {
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('Burn 40% PUG tokens by sending them to the')}&nbsp;&nbsp;<a href="https://bscscan.com/address/0x000000000000000000000000000000000000dead" target="_blank" rel="noreferrer" style={{color: 'blue'}}>{t('"Burn address"')}.</a></Text>
+                    <Text color='#767676'>{t('Burn 40% DHI tokens by sending them to the')}&nbsp;&nbsp;<a href="https://bscscan.com/address/0x000000000000000000000000000000000000dead" target="_blank" rel="noreferrer" style={{color: 'blue'}}>{t('"Burn address"')}.</a></Text>
                 </Row>
             </TopDiv>
             <Spacer height="40px" />
@@ -65,7 +65,7 @@ const SafelistContent = () => {
                     </Row2>
                 </div>
                 <Div>
-                    <Text color={Theme.colors.primary}>{t('Send us the following information to')}<Text2 color={Theme.colors.bgscondary}><b>&nbsp;{t('Pen@Puginu.Finance.')}</b></Text2></Text>
+                    <Text color={Theme.colors.primary}>{t('Send us the following information to')}<Text2 color={Theme.colors.bgscondary}><b>&nbsp;{t('Pen@Dachshundinu.io')}</b></Text2></Text>
                     <Spacer height="40px" />
                     <Row2>
                         <Circle />
@@ -84,7 +84,7 @@ const SafelistContent = () => {
                 </Div>
             </BottomDiv>
             <Spacer height="60px" />
-            <Text color={Theme.colors.primary}>{t('Tip: Mentioning your interest in Pug Inu Finance on your social media is always appreciated.')}</Text>
+            <Text color={Theme.colors.primary}>{t('Tip: Mentioning your interest in Dachshund Inu on your social media is always appreciated.')}</Text>
             <Spacer height="100px" />
         </Container>
     )
