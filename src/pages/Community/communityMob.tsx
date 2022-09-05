@@ -5,9 +5,9 @@ import { Theme } from 'constants/theme';
 import { Assets } from 'constants/images';
 import { useTranslation } from 'contexts/Localization';
 
-const desc =  `Through Callisto Bridge, Soy Finance expands its frontiers to the major blockchains ecosystems.`
+const desc =  `Through Binance Bridge, Dachshund Inu expands its frontiers to the major blockchains ecosystems.`
 const clodesc1 = `The Blockchain platform designed by the most experienced crypto-security experts.`
-const clodesc2 = `Callisto Network has never been hacked or subjected to a 51% attack, making the dApps running on it the most secure of the blockchain ecosystem.`
+const clodesc2 = `Binance Smart Chain has never been hacked or subjected to a 51% attack, making the dApps running on it the most secure of the blockchain ecosystem.`
 
 const CommunityMob = () => {
     const { t } = useTranslation()
@@ -26,7 +26,7 @@ const CommunityMob = () => {
         <Container id="callistobridge">
             <Row>
                 <Title3 align="center" color={Theme.colors.primary}>
-                    {t('Callisto Bridge')}
+                    {t('Binance Bridge')}
                 </Title3>
             </Row>
             <Spacer height="30px" />
