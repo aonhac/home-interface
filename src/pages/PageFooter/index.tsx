@@ -135,9 +135,9 @@ const PageFooter = () => {
                         <Spacer height="10px" />
                         <StyledLi href="https://" target="_blank">{t('Bug Bounty Report (To come)')}</StyledLi>
                         <Spacer height="10px" />
-                        <StyledLi href="" target="_blank">{t('')}</StyledLi>
+                        <StyledLi href="https://github.com/ContractChecker" target="_blank">{t('Platform KYC Report')}</StyledLi>
                         <Spacer height="10px" />
-                        <StyledLi href="">{t('')}</StyledLi>
+                        <StyledLi href="https://github.com/ContractChecker">{t('Platform Safu Report')}</StyledLi>
                     </div>
                     <div>
                         <Text align="center"><b>{t('Social Media')}</b></Text>
