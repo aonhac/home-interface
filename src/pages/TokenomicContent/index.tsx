@@ -60,7 +60,7 @@ const TokenomicContent = () => {
                 </Row2>
                 <Spacer height="10px" />
                 <Row2>
-                    <Text color={Theme.colors.primary}><b>{t('Phase 2')}</b><Text2 color='#767676'>&nbsp;{t('PancakeSwap Active Users Airdrop - 1.5%')}</Text2></Text>
+                    <Text color={Theme.colors.primary}><b>{t('Phase 2')}</b><Text2 color='#767676'>&nbsp;{t('Staking Active Users Airdrop - 1.5%')}</Text2></Text>
                 </Row2>
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('Token Info')}</SubTitle>
@@ -71,7 +71,7 @@ const TokenomicContent = () => {
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('Token Symbol: DHI')}</Text>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('Contract address: 0x0000000000000000000000000000000000000000')}</Text>
+                <Text color='#767676'>{t('Contract address: 0x0000000000000000000000000000000000000')}</Text>
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('Fees Distribution Phases Details')}</SubTitle>
                 <Spacer height="40px" />
