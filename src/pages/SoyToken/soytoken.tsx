@@ -4,8 +4,8 @@ import Spacer from 'components/Spacer';
 import { Theme } from 'constants/theme';
 import { useTranslation } from 'contexts/Localization';
 
-const desc = `The Pug Inu tokenomic is designed to grow your capital.\nPug Inu Token is built on an innovative monetary policy, featuring the "Buyback & Burn" mechanism and allowing holders to share up to 5% of the platform's transaction fees.`
-const desc2 = `Pug Inu Token also provides the opportunity to take part in Pug Inu Finance's governance system.`
+const desc = `The Dachshund tokenomic is designed to grow your capital.\nDachshund Token is built on an innovative monetary policy, featuring the "Buyback & Burn" mechanism and allowing holders to share up to 5% of the platform's transaction fees.`
+const desc2 = `Dachshund Token also provides the opportunity to take part in Dachshund Finance's governance system.`
 
 const SoyToken = () => {
     const { t } = useTranslation()
@@ -14,7 +14,7 @@ const SoyToken = () => {
             <Wrapper >
                 <SpaceRow>
                     <Title color={Theme.colors.primary}>
-                        <Title color="#AEDD00">{t('Pug Inu')}&nbsp;</Title>{t('Token')}
+                        <Title color="#AEDD00">{t('Dachshund')}&nbsp;</Title>{t('Token')}
                     </Title>
                 </SpaceRow>
                 <Spacer height="50px" />
