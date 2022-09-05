@@ -71,7 +71,7 @@ const TokenomicContent = () => {
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('Token Symbol: DHI')}</Text>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('Contract address: 0x0000000000000000000000000000000000000')}</Text>
+                <Text color='#767676'>{t('Contract address: 0x0000000000000000000000000000000000000000')}</Text>
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('Fees Distribution Phases Details')}</SubTitle>
                 <Spacer height="40px" />
