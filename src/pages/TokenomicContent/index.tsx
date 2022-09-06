@@ -37,12 +37,12 @@ const TokenomicContent = () => {
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('15% Staking & Farm pool')}</Text>
+                    <Text color='#767676'>{t('15% Staking & Farm Pool')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('5% will be allocated to the Pug Inu team members via a dynamic motivation system for the team members to support the project development in the time.')}</Text>
+                    <Text color='#767676'>{t('5% will be allocated to the Dachshund Inu team members via a dynamic motivation system for the team members to support the project development in the time.')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
