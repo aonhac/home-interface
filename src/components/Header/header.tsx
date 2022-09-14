@@ -33,7 +33,7 @@ const Header: React.FC = () => {
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="ml-auto">
                     <Li> 
-                        <NavDropdown title={t('Dachshund Inu')} id="collasible-nav-dropdown">
+                        <NavDropdown title={t('Alaska Inu')} id="collasible-nav-dropdown">
                             <NavDropdown.Item href="" target="_blank">{t('')}</NavDropdown.Item>
                             <NavDropdown.Item href="/roadmap">{t('Roadmap')}</NavDropdown.Item>
                             <NavDropdown.Item href="/tokenomic">{t('Tokenomics')}</NavDropdown.Item>
@@ -42,10 +42,10 @@ const Header: React.FC = () => {
                         </NavDropdown>
                     </Li>
                     <Li>
-                        <Nav.Link href="https://app.dachshundinu.io" target="_blank">{t('Staking Testnet')}</Nav.Link>
+                        <Nav.Link href="https://app.alaskainu.finance" target="_blank">{t('Staking Testnet')}</Nav.Link>
                     </Li>
                     <LiButton href="https://www.pinksale.finance/launchpads?chain=BSC" target="_blank">
-                        {t('Dachshund Inu Fairlaunch')}
+                        {t('Alaska Inu Fairlaunch')}
                     </LiButton>
                     <Li>
                         <NavDropdown title={langTitle[`${currentLanguage.locale}`]} id="collasible-nav-dropdown">
