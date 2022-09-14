@@ -21,12 +21,12 @@ const TokenomicContent = () => {
 
     return (
         <Container>
-            <Title color={Theme.colors.primary}>{t('Dachshund Inu Tokenomics')}</Title>
+            <Title color={Theme.colors.primary}>{t('Alaska Inu Tokenomics')}</Title>
             <Spacer height="80px" />
             <TopDiv>
                 <SubTitle color={Theme.colors.bgscondary}>{t('Supply and Distribution')}</SubTitle>
                 <Spacer height="40px" />
-                <SubTitle color={Theme.colors.bgscondary}>{t('Max Supply:')}<Text2 color={Theme.colors.primary}><b>&nbsp;{t('1,000,000,000,000,000 $DHI.')}</b></Text2></SubTitle>
+                <SubTitle color={Theme.colors.bgscondary}>{t('Max Supply:')}<Text2 color={Theme.colors.primary}><b>&nbsp;{t('1,000,000,000,000,000 $ALK.')}</b></Text2></SubTitle>
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('')}</Text>
                 <Spacer height="20px" />
@@ -42,7 +42,7 @@ const TokenomicContent = () => {
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('5% will be allocated to the Dachshund Inu team members via a dynamic motivation system for the team members to support the project development in the time.')}</Text>
+                    <Text color='#767676'>{t('5% will be allocated to the Alaska Inu team members via a dynamic motivation system for the team members to support the project development in the time.')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
@@ -56,7 +56,7 @@ const TokenomicContent = () => {
                 </Row>
                 <Spacer height="20px" />
                 <Row2>
-                    <Text color={Theme.colors.primary}><b>{t('Phase 1')}</b><Text2 color='#767676'>&nbsp;{t('Community participation in Dachshund Inu Social - 1.5%')}</Text2></Text>
+                    <Text color={Theme.colors.primary}><b>{t('Phase 1')}</b><Text2 color='#767676'>&nbsp;{t('Community participation in Alaska Inu Social - 1.5%')}</Text2></Text>
                 </Row2>
                 <Spacer height="10px" />
                 <Row2>
@@ -67,9 +67,9 @@ const TokenomicContent = () => {
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('Token Network: Binance Smart Chain')}</Text>
                 <Spacer height="20px" />
-                <Text color='#767676'>{t('Token Name: Dachshund Inu')}</Text>
+                <Text color='#767676'>{t('Token Name: Alaska Inu')}</Text>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('Token Symbol: DHI')}</Text>
+                <Text color='#767676'>{t('Token Symbol: ALK')}</Text>
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('Contract address: 0x0000000000000000000000000000000000000000')}</Text>
                 <Spacer height="40px" />
@@ -77,18 +77,18 @@ const TokenomicContent = () => {
                 <Spacer height="40px" />
                 <Row3>
                     <Text3 color={Theme.colors.primary}><b>{t('Holder')}</b>&nbsp;&nbsp;&nbsp;</Text3>
-                    <Text color='#767676'>&nbsp;{t('With new smartcontract we will reward holders in BNB using 5% tax sell. No need to do anything just hold $DHI token and you will have BNB to your wallet. Hold more and more BNB rewards.')}</Text>
+                    <Text color='#767676'>&nbsp;{t('With new smartcontract we will reward holders in BNB using 5% tax sell. No need to do anything just hold $ALK token and you will have BNB to your wallet. Hold more and more BNB rewards.')}</Text>
                 </Row3>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('2% HOLDER Rewards: Dachshund Inu Rewards its community as a Priority.')}</Text>
+                <Text color='#767676'>{t('2% HOLDER Rewards: Alaska Inu Rewards its community as a Priority.')}</Text>
                 <Spacer height="40px" />
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('3% Marketing: Every Sell Transaction is Distributed to the Dachshund Inu Team For Marketing Uses. Essentially, the Team Will Have a Stream of Funds Available to Keep Developing and Growing the Dachshund Inu Project to Create More Profits For You and All HOLDER.')}</Text>
+                <Text color='#767676'>{t('3% Marketing: Every Sell Transaction is Distributed to the Alaska Inu Team For Marketing Uses. Essentially, the Team Will Have a Stream of Funds Available to Keep Developing and Growing the Alaska Inu Project to Create More Profits For You and All HOLDER.')}</Text>
                 <Spacer height="40px" />
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('Burning Mechanisms - “Buyback & Burn”')}</SubTitle>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('A set of burning mechanisms will be introduced to reward the DHI token holders and liquidity providers by decreasing inflation or lead to deflation depending on the system’s utilization, trading volume, and token price.')}</Text>
+                <Text color='#767676'>{t('A set of burning mechanisms will be introduced to reward the ALK token holders and liquidity providers by decreasing inflation or lead to deflation depending on the system’s utilization, trading volume, and token price.')}</Text>
                 <Spacer height="20px" />
                 <Text color='#767676'>{t('The burning mechanism will receive a percentage ranging from 2% of the total trading fee.')}<Text color={Theme.colors.primary}>&nbsp;{t('Weekly, DHI tokens will be rebought and burned.')}</Text></Text>
                 <Spacer height="20px" />
