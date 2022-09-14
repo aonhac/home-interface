@@ -30,11 +30,11 @@ const Intro = () => {
             <Spacer height="50px" />
             
             <LiButton href="https://www.pinksale.finance/launchpads?chain=BSC" target="_blank">
-                {t('Dachshund Inu Fairlaunch')}
+                {t('Alaska Inu Fairlaunch')}
             </LiButton>
             <Spacer height="20px" />
             <LiButton2 href="/airdrop">
-                {t('DHI Airdrop')}
+                {t('ALK Airdrop')}
             </LiButton2>
             <StyledVideo autoPlay muted loop id="main">
                 <source src="Main.mp4" type="video/mp4"/>
