@@ -5,7 +5,7 @@ import { Theme } from 'constants/theme';
 import { Assets } from 'constants/images';
 import { useTranslation } from 'contexts/Localization';
 
-const desc =  `Through Binance Bridge, Dachshund Inu expands its frontiers to the major blockchains ecosystems.`
+const desc =  `Through Binance Bridge, Alaska Inu expands its frontiers to the major blockchains ecosystems.`
 const clodesc1 = `The Blockchain platform designed by the most experienced crypto-security experts.`
 const clodesc2 = `Binance Smart Chain has never been hacked or subjected to a 51% attack, making the dApps running on it the most secure of the blockchain ecosystem.`
 
