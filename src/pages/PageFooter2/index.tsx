@@ -39,7 +39,7 @@ const PageFooter = () => {
                             <RightsdivWeb>
                                 <Text>{t('All rights reserved by')}</Text>
                                 <Spacer height="5px" />
-                                <Text><b>{t('Dachshund Inu')}</b></Text>
+                                <Text><b>{t('Alaska Inu')}</b></Text>
                             </RightsdivWeb>
                         </Itemdiv>
                         <Itemdiv>                            
@@ -107,7 +107,7 @@ const PageFooter = () => {
                         <Text><b>{t('Dachshund Inu')}</b></Text>
                     </div>
                     <div>
-                        <Text><b>{t('Dachshund Inu')}</b></Text>
+                        <Text><b>{t('Alaska Inu')}</b></Text>
                         <Spacer height="10px" />
                         <StyledLi href="" target="_blank">{t('')}</StyledLi>
                         <Spacer height="10px" />
