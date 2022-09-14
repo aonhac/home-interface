@@ -14,7 +14,7 @@ const OneToken = () => {
             <Wrapper >
                 <SpaceRow>
                     <Title color={Theme.colors.primary}>
-                        <Title color="#AEDD00">{t('Dachshund')}&nbsp;</Title>{t('Inu')}
+                        <Title color="#AEDD00">{t('Alaska')}&nbsp;</Title>{t('Inu')}
                     </Title>
                 </SpaceRow>
                 <Spacer height="50px" />
