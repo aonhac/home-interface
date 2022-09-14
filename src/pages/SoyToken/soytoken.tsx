@@ -4,8 +4,8 @@ import Spacer from 'components/Spacer';
 import { Theme } from 'constants/theme';
 import { useTranslation } from 'contexts/Localization';
 
-const desc = `The Dachshund tokenomic is designed to grow your capital.\nDachshund Token is built on an innovative monetary policy, featuring the "Buyback & Burn" mechanism and allowing holders to share up to 5% of the platform's transaction fees.`
-const desc2 = `Dachshund Token also provides the opportunity to take part in Dachshund Finance's governance system.`
+const desc = `The Alaska Inu tokenomic is designed to grow your capital.\nAlaska Inu Token is built on an innovative monetary policy, featuring the "Buyback & Burn" mechanism and allowing holders to share up to 5% of the platform's transaction fees.`
+const desc2 = `Alaska Inu Token also provides the opportunity to take part in Dachshund Finance's governance system.`
 
 const SoyToken = () => {
     const { t } = useTranslation()
