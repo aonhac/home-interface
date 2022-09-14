@@ -5,7 +5,7 @@ import { Theme } from 'constants/theme';
 import { Assets } from 'constants/images';
 import { useTranslation } from 'contexts/Localization';
 
-const desc = `Simply stake your assets in the corresponding pool to start earning DHI token rewards!`
+const desc = `Simply stake your assets in the corresponding pool to start earning ALK token rewards!`
 
 const OneToken = () => {
     const { t } = useTranslation()
@@ -23,7 +23,7 @@ const OneToken = () => {
                 </Text>
                 <Spacer height="50px" />
                 <LiButton
-                    href="https://app.dachshundinu.io/"
+                    href="https://app.alaskainu.finance"
                     target="_blank"
                 >
                     {t('Yield Farming')}
