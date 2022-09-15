@@ -37,7 +37,7 @@ const TokenomicContent = () => {
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('Name: Alaska Inu')}</Text>
+                    
                 </Row>
                 <Spacer height="20px" />
                 <Row>
