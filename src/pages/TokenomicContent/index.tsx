@@ -56,22 +56,22 @@ const TokenomicContent = () => {
                 </Row>
                 <Spacer height="20px" />
                 <Row2>
-                    <Text color={Theme.colors.primary}><b>{t('Phase 1')}</b><Text2 color='#767676'>&nbsp;{t('')}</Text2></Text>
+                    <Text color={Theme.colors.primary}><b>{t('')}</b><Text2 color='#767676'>&nbsp;{t('')}</Text2></Text>
                 </Row2>
                 <Spacer height="10px" />
                 <Row2>
-                    <Text color={Theme.colors.primary}><b>{t('Phase 2')}</b><Text2 color='#767676'>&nbsp;{t('')}</Text2></Text>
+                    <Text color={Theme.colors.primary}><b>{t('')}</b><Text2 color='#767676'>&nbsp;{t('')}</Text2></Text>
                 </Row2>
                 <Spacer height="40px" />
-                <SubTitle color={Theme.colors.bgscondary}>{t('Token Info')}</SubTitle>
+                <SubTitle color={Theme.colors.bgscondary}>{t('✅ Tax fees')}</SubTitle>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('Token Network: Binance Smart Chain')}</Text>
+                <Text color='#767676'>{t('2% on Buy')}</Text>
                 <Spacer height="20px" />
-                <Text color='#767676'>{t('Token Name: Alaska Inu')}</Text>
+                <Text color='#767676'>{t('2% on Sell')}</Text>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('Token Symbol: ALK')}</Text>
+                <Text color='#767676'>{t('')}</Text>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('Contract address: 0x0000000000000000000000000000000000000000')}</Text>
+                <Text color='#767676'>{t('')}</Text>
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('Fees Distribution Phases Details')}</SubTitle>
                 <Spacer height="40px" />
