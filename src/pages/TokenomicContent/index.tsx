@@ -24,43 +24,43 @@ const TokenomicContent = () => {
             <Title color={Theme.colors.primary}>{t('Alaska Inu Tokenomics')}</Title>
             <Spacer height="80px" />
             <TopDiv>
-                <SubTitle color={Theme.colors.bgscondary}>{t('Supply and Distribution')}</SubTitle>
+                <SubTitle color={Theme.colors.bgscondary}>{t('')}</SubTitle>
                 <Spacer height="40px" />
-                <SubTitle color={Theme.colors.bgscondary}>{t('Max Supply:')}<Text2 color={Theme.colors.primary}><b>&nbsp;{t('1,000,000,000,000,000 $ALK.')}</b></Text2></SubTitle>
+                <SubTitle color={Theme.colors.bgscondary}>{t('')}<Text2 color={Theme.colors.primary}><b>&nbsp;{t('')}</b></Text2></SubTitle>
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('')}</Text>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('70% to Initial Dex Offering early investors. The funds raised will be moved to the distributed insurance system.')}</Text>
+                    <Text color='#767676'>{t('')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('15% Staking & Farm Pool')}</Text>
+                    <Text color='#767676'>{t('')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('5% will be allocated to the Alaska Inu team members via a dynamic motivation system for the team members to support the project development in the time.')}</Text>
+                    <Text color='#767676'>{t('')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('7% will be used for bug bounty programs to ensure high-security services.')}</Text>
+                    <Text color='#767676'>{t('')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('3% Airdrop & Bounty')}</Text>
+                    <Text color='#767676'>{t('')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row2>
-                    <Text color={Theme.colors.primary}><b>{t('Phase 1')}</b><Text2 color='#767676'>&nbsp;{t('Community participation in Alaska Inu Social - 1.5%')}</Text2></Text>
+                    <Text color={Theme.colors.primary}><b>{t('Phase 1')}</b><Text2 color='#767676'>&nbsp;{t('')}</Text2></Text>
                 </Row2>
                 <Spacer height="10px" />
                 <Row2>
-                    <Text color={Theme.colors.primary}><b>{t('Phase 2')}</b><Text2 color='#767676'>&nbsp;{t('Staking Active Users Airdrop - 1.5%')}</Text2></Text>
+                    <Text color={Theme.colors.primary}><b>{t('Phase 2')}</b><Text2 color='#767676'>&nbsp;{t('')}</Text2></Text>
                 </Row2>
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('Token Info')}</SubTitle>
