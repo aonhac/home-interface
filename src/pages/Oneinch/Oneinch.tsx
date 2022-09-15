@@ -5,7 +5,7 @@ import { Theme } from 'constants/theme';
 import { Assets } from 'constants/images';
 import { useTranslation } from 'contexts/Localization';
 
-const desc = `Combining a safelist for audited tokens, decentralized insurance, and the most advanced token standard, Alaska Inu adopts the industry’s best practices and technologies to provide the community with a rock-solid platform.\n("Audit, KYC & SAFU by Contract Checker - Low Tax - No Control Of Contract)`
+const desc = `Combining a safelist for audited tokens, decentralized insurance, and the most advanced token standard, Alaska Inu adopts the industry’s best practices and technologies to provide the community with a rock-solid platform.\n(Audit, KYC & SAFU by Contract Checker - Low Tax - No Control Of Contract).`
 
 const OneToken = () => {
     const { t } = useTranslation()
