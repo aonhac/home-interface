@@ -73,17 +73,17 @@ const TokenomicContent = () => {
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('')}</Text>
                 <Spacer height="40px" />
-                <SubTitle color={Theme.colors.bgscondary}>{t('Fees Distribution Phases Details')}</SubTitle>
+                <SubTitle color={Theme.colors.bgscondary}>{t('✅ Fees Distribution Phases Details')}</SubTitle>
                 <Spacer height="40px" />
                 <Row3>
-                    <Text3 color={Theme.colors.primary}><b>{t('Holder')}</b>&nbsp;&nbsp;&nbsp;</Text3>
-                    <Text color='#767676'>&nbsp;{t('With new smartcontract we will reward holders in BNB using 5% tax sell. No need to do anything just hold $ALK token and you will have BNB to your wallet. Hold more and more BNB rewards.')}</Text>
+                    <Text3 color={Theme.colors.primary}><b>{t('')}</b>&nbsp;&nbsp;&nbsp;</Text3>
+                    <Text color='#767676'>&nbsp;{t('')}</Text>
                 </Row3>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('2% HOLDER Rewards: Alaska Inu Rewards its community as a Priority.')}</Text>
+                <Text color='#767676'>{t('2% to DEV wallet')}</Text>
                 <Spacer height="40px" />
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('3% Marketing: Every Sell Transaction is Distributed to the Alaska Inu Team For Marketing Uses. Essentially, the Team Will Have a Stream of Funds Available to Keep Developing and Growing the Alaska Inu Project to Create More Profits For You and All HOLDER.')}</Text>
+                <Text color='#767676'>{t('2% to Marketing wallet')}</Text>
                 <Spacer height="40px" />
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('Burning Mechanisms - “Buyback & Burn”')}</SubTitle>
