@@ -32,27 +32,27 @@ const TokenomicContent = () => {
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('Network: ')}</Text>
+                    <Text color='#767676'>{t('Network: Binance Smart Chain ')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('Name:')}</Text>
+                    <Text color='#767676'>{t('Name: Alaska Inu')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('Total Supply:')}</Text>
+                    <Text color='#767676'>{t('Total Supply: 1,000,000,000,000,000 ALK')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('Decimals:')}</Text>
+                    <Text color='#767676'>{t('Decimals: 9')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('Contract:')}</Text>
+                    <Text color='#767676'>{t('Contract: 0x0000000000000000000000000000000000000000')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row2>
