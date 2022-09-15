@@ -7,7 +7,7 @@ import Spacer from 'components/Spacer';
 import { useMetrics } from 'hooks/useMetrics';
 
 
-function shortenNumber(value: number) {
+function shortenNumber(value: ) {
     if( value === undefined) return "0"
     const parsed1: string = value.toString();
     const parsed: string = parseInt(parsed1).toString();
@@ -46,32 +46,32 @@ const Metrics = () => {
                     <Div className="margin">
                         <StyledText2>{t('Hello')}</StyledText2>
                         <Spacer height="20px" />
-                        <StyledText>${shortenNumber(metricsData.result.Volume)}</StyledText>
+                        <StyledText>${shortenNumber(metricsData.result.)}</StyledText>
                     </Div>
                     <Div>
                         <StyledText2>{t('')}</StyledText2>
                         <Spacer height="20px" />
-                        <StyledText>{shortenNumber(metricsData.result.Users)}+</StyledText>
+                        <StyledText>{shortenNumber(metricsData.result.)}+</StyledText>
                     </Div>
                 </Flex>
                 <Flex data-aos="fade-left">
                     <Div className="margin">
                         {
                             isEn ?
-                            <StyledText2>{t('Hello 1')}</StyledText2>:
-                            <StyledText3>{t('Hello 2')}</StyledText3>
+                            <StyledText2>{t('')}</StyledText2>:
+                            <StyledText3>{t('')}</StyledText3>
                         }
                         {
                             isEn ?
-                            <StyledText3>{t('Hello 3')}</StyledText3>:
-                            <StyledText2>{t('Hello 4')}</StyledText2>
+                            <StyledText3>{t('')}</StyledText3>:
+                            <StyledText2>{t('')}</StyledText2>
                         }
                         <StyledText>3</StyledText>
                     </Div>
                     <Div>
-                        <StyledText2>{t('Hello 5')}</StyledText2>
+                        <StyledText2>{t('')}</StyledText2>
                         <Spacer height="20px" />
-                        <StyledText>{shortenNumber(metricsData.result.Trades)}+</StyledText>
+                        <StyledText>{shortenNumber(metricsData.result.)}+</StyledText>
                     </Div>
                 </Flex>
             </Content>
