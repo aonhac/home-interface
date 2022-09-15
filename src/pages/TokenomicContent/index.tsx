@@ -82,17 +82,15 @@ const TokenomicContent = () => {
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('2% to DEV wallet')}</Text>
                 <Spacer height="40px" />
-                <Spacer height="40px" />
                 <Text color='#767676'>{t('2% to Marketing wallet')}</Text>
                 <Spacer height="40px" />
+                <SubTitle color={Theme.colors.bgscondary}>{t('')}</SubTitle>
                 <Spacer height="40px" />
-                <SubTitle color={Theme.colors.bgscondary}>{t('Burning Mechanisms - “Buyback & Burn”')}</SubTitle>
-                <Spacer height="40px" />
-                <Text color='#767676'>{t('A set of burning mechanisms will be introduced to reward the ALK token holders and liquidity providers by decreasing inflation or lead to deflation depending on the system’s utilization, trading volume, and token price.')}</Text>
+                <Text color='#767676'>{t('')}</Text>
                 <Spacer height="20px" />
-                <Text color='#767676'>{t('The burning mechanism will receive a percentage ranging from 2% of the total trading fee.')}<Text color={Theme.colors.primary}>&nbsp;{t('Weekly, ALK tokens will be rebought and burned.')}</Text></Text>
+                <Text color='#767676'>{t('')}<Text color={Theme.colors.primary}>&nbsp;{t('')}</Text></Text>
                 <Spacer height="20px" />
-                <Text color='#767676'>{t('The system’s adoption and utilization through transaction volume define the size of the commission fees that will be distributed both to liquidity providers and burned.')}</Text>
+                <Text color='#767676'>{t('')}</Text>
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('')}</SubTitle>
                 <Spacer height="40px" />
