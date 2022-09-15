@@ -8,7 +8,7 @@ import { useMetrics } from 'hooks/useMetrics';
 
 
 function shortenNumber(value: number) {
-    if( value === undefined) return "1"
+    if( value === undefined) return "0"
     const parsed1: string = value.toString();
     const parsed: string = parseInt(parsed1).toString();
     
