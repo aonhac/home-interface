@@ -44,7 +44,7 @@ const Metrics = () => {
             <Content>
                 <Flex data-aos="fade-right">
                     <Div className="margin">
-                        <StyledText2>{t('')}</StyledText2>
+                        <StyledText2>{t('Hello')}</StyledText2>
                         <Spacer height="20px" />
                         <StyledText>${shortenNumber(metricsData.result.Volume)}</StyledText>
                     </Div>
@@ -58,18 +58,18 @@ const Metrics = () => {
                     <Div className="margin">
                         {
                             isEn ?
-                            <StyledText2>{t('')}</StyledText2>:
-                            <StyledText3>{t('')}</StyledText3>
+                            <StyledText2>{t('Hello 1')}</StyledText2>:
+                            <StyledText3>{t('Hello 2')}</StyledText3>
                         }
                         {
                             isEn ?
-                            <StyledText3>{t('')}</StyledText3>:
-                            <StyledText2>{t('')}</StyledText2>
+                            <StyledText3>{t('Hello 3')}</StyledText3>:
+                            <StyledText2>{t('Hello 4')}</StyledText2>
                         }
                         <StyledText>3</StyledText>
                     </Div>
                     <Div>
-                        <StyledText2>{t('')}</StyledText2>
+                        <StyledText2>{t('Hello 5')}</StyledText2>
                         <Spacer height="20px" />
                         <StyledText>{shortenNumber(metricsData.result.Trades)}+</StyledText>
                     </Div>
