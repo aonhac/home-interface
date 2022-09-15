@@ -73,8 +73,8 @@ const Community = () => {
                         <MarkPointImg src={Assets.point} alt="" data-aos="fade-zoom-in" data-aos-delay="2900" />
                     </Row2>
                     <TextDivETH>
-                        <Title align="center" data-aos="fade-zoom-in" data-aos-delay="3000">{t('Ethereum')}</Title>
-                        <Title align="center" data-aos="fade-zoom-in" data-aos-delay="3000">{t('Classic')}</Title>
+                        <Title align="center" data-aos="fade-zoom-in" data-aos-delay="3000">{t('Polygon')}</Title>
+                        <Title align="center" data-aos="fade-zoom-in" data-aos-delay="3000">{t('Network')}</Title>
                     </TextDivETH>
                 </CLOSection>
                 <StarLeftImg src={Assets.starclo} alt=""/>
