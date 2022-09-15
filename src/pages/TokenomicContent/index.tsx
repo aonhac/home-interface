@@ -76,7 +76,8 @@ const TokenomicContent = () => {
                 <SubTitle color={Theme.colors.bgscondary}>{t('✅ Fees Distribution Phases Details')}</SubTitle>
                 <Spacer height="40px" />
                 <Row3>
-
+                    <Text3 color={Theme.colors.primary}><b>{t('Holder')}</b>&nbsp;&nbsp;&nbsp;</Text3>
+                    <Text color='#767676'>&nbsp;{t('With new smartcontract we will reward holders in BNB using 5% tax sell. No need to do anything just hold $ALK token and you will have BNB to your wallet. Hold more and more BNB rewards.')}</Text>
                 </Row3>
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('2% to DEV wallet')}</Text>
