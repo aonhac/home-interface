@@ -26,14 +26,11 @@ const TokenomicContent = () => {
             <TopDiv>
                 <SubTitle color={Theme.colors.bgscondary}>{t('')}</SubTitle>
                 <Spacer height="40px" />
-                <SubTitle color={Theme.colors.bgscondary}>{t('Max Supply:')}<Text2 color={Theme.colors.primary}><b>&nbsp;{t('1,000,000,000,000,000 $ALK.')}</b></Text2></SubTitle>
+                <SubTitle color={Theme.colors.bgscondary}>{t('')}<Text2 color={Theme.colors.primary}><b>&nbsp;{t('')}</b></Text2></SubTitle>
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('')}</Text>
                 <Spacer height="20px" />
-                <Row>
-                    <Circle />
-                    <Text color='#767676'>{t('70% to Initial Dex Offering early investors. The funds raised will be moved to the distributed insurance system.')}</Text>
-                </Row>
+                
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
