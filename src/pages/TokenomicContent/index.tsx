@@ -30,19 +30,31 @@ const TokenomicContent = () => {
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('')}</Text>
                 <Spacer height="20px" />
-       
+                <Row>
+                    <Circle />
+                </Row>
                 <Spacer height="20px" />
-               
+                <Row>
+                    <Circle />
+                </Row>
                 <Spacer height="20px" />
-              
+                <Row>
+                    <Circle />
+                </Row>
                 <Spacer height="20px" />
-            
+                <Row>
+                    <Circle />
+                </Row>
                 <Spacer height="20px" />
-            
+                <Row>
+                    <Circle />
+                </Row>
                 <Spacer height="20px" />
-               
+                <Row2>
+                </Row2>
                 <Spacer height="10px" />
-             
+                <Row2>
+                </Row2>
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('Token Info')}</SubTitle>
                 <Spacer height="40px" />
