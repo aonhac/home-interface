@@ -32,7 +32,7 @@ const TokenomicContent = () => {
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('Network: Binance Smart Chain ')}</Text>
+                    <Text color=''>{t('')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
