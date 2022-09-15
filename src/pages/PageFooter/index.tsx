@@ -58,7 +58,7 @@ const PageFooter = () => {
                             <Spacer height="10px" />
                             <StyledLi href="" target="_blank">{t('')}</StyledLi>
                             <Spacer height="10px" />
-                            <StyledLi href="https://github.com/alaskainu/" target="_blank">{t('Github')}</StyledLi>
+                            <StyledLi href="https://github.com/AlaskaInubsc" target="_blank">{t('Github')}</StyledLi>
                             <Spacer height="10px" />
                             <StyledLi href="https://bscscan.com/" target="_blank">{t('Contract')}</StyledLi>
                             <Spacer height="10px" />
@@ -122,7 +122,7 @@ const PageFooter = () => {
                         <Spacer height="10px" />
                         <StyledLi href="" target="_blank">{t('')}</StyledLi>
                         <Spacer height="10px" />
-                        <StyledLi href="https://github.com/dachshundinu/" target="_blank">{t('Github')}</StyledLi>
+                        <StyledLi href="https://github.com/AlaskaInubsc" target="_blank">{t('Github')}</StyledLi>
                         <Spacer height="10px" />
                         <StyledLi href="https://bscscan.com/" target="_blank">{t('Contract')}</StyledLi>
                         <Spacer height="10px" />
