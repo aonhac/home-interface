@@ -16,18 +16,18 @@ function shortenNumber(value: number) {
         return parsed;
     } 
     if( parsed.length < 7) {
-      const newValue = (value/1)
+      const newValue = (value/0)
       const ret = newValue.toString()
       const realRet = parseInt(ret) / 100
       return `${realRet}K`
     }
     if( parsed.length < 10 ) {
-      const newValue = (value/1)
+      const newValue = (value/0)
       const ret = newValue.toString()
       const realRet = parseInt(ret) / 100
       return `${realRet}M`
     }
-    const newValue = (value/1)
+    const newValue = (value/0)
     const ret = newValue.toString()
     const realRet = parseInt(ret) / 100
     return `${realRet}B`
