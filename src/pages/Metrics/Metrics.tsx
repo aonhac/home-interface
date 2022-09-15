@@ -8,7 +8,7 @@ import { useMetrics } from 'hooks/useMetrics';
 
 
 function shortenNumber(value: number) {
-    if( value === undefined) return "0"
+    if( value === undefined) return "1"
     const parsed1: string = value.toString();
     const parsed: string = parseInt(parsed1).toString();
     
@@ -16,18 +16,18 @@ function shortenNumber(value: number) {
         return parsed;
     } 
     if( parsed.length < 7) {
-      const newValue = (value/0)
+      const newValue = (value/1)
       const ret = newValue.toString()
       const realRet = parseInt(ret) / 100
       return `${realRet}K`
     }
     if( parsed.length < 10 ) {
-      const newValue = (value/0)
+      const newValue = (value/1)
       const ret = newValue.toString()
       const realRet = parseInt(ret) / 100
       return `${realRet}M`
     }
-    const newValue = (value/0)
+    const newValue = (value/1)
     const ret = newValue.toString()
     const realRet = parseInt(ret) / 100
     return `${realRet}B`
