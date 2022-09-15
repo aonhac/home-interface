@@ -24,8 +24,8 @@ const Intro = () => {
             <TitleSection />
             <Spacer height="10px" />
             <Row>
-                <Subtitle color={isEn ? Theme.colors.bgscondary : Theme.colors.primary} fw={isEn ? "700" : "400"}>{t('The DeFi Ecosystem')}</Subtitle>
-                <Subtitle color={isEn ? Theme.colors.primary : Theme.colors.bgscondary} fw={isEn ? "400" : "700"}>{t('With a Real Emphasis on Security.')}</Subtitle>
+                <Subtitle color={isEn ? Theme.colors.bgscondary : Theme.colors.primary} fw={isEn ? "700" : "400"}>{t('Take Your Alaska')}</Subtitle>
+                <Subtitle color={isEn ? Theme.colors.primary : Theme.colors.bgscondary} fw={isEn ? "400" : "700"}>{t('Drag ELON here and well go to MARS together.')}</Subtitle>
             </Row>
             <Spacer height="50px" />
             
