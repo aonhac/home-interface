@@ -76,7 +76,7 @@ const TokenomicContent = () => {
                 <SubTitle color={Theme.colors.bgscondary}>{t('✅ Fees Distribution Phases Details')}</SubTitle>
                 <Spacer height="40px" />
                 <Row3>
-                    <Text3 color={Theme.colors.primary}><b>{t('')}</b>&nbsp;&nbsp;&nbsp;</Text3>
+                    <Text3 color={Theme.colors.primary}><b>{t('3% to DEV wallet')}</b>&nbsp;&nbsp;&nbsp;</Text3>
                     <Text color='#767676'>&nbsp;{t('')}</Text>
                 </Row3>
                 <Spacer height="40px" />
