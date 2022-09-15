@@ -5,7 +5,7 @@ import { Theme } from 'constants/theme';
 import { useTranslation } from 'contexts/Localization';
 
 const desc = `The token of Alaska Inu is denoted by $ALK, it gives the opportunity to participate in the governance system of Alaska Inu Finance. Next month will be Staking, Farming with high APY.\n💠$ALK Details:`
-const desc2 = `♻️Total Supply: 1,000,000,000,000,000 ALK.\n♻️Sybol: ALK`
+const desc2 = `♻️Total Supply: 1,000,000,000,000,000 ALK.\n♻️Sybol: ALK.\n♻️Decimals: 9.\n♻️Presale + Liquidity: 450,000,000,000,000,000 ALK.\n♻️Staking/Farming Reward: 75,000,000,000,000 ALK.\n♻️CEX Listing: 75,000,000,000,000 ALK.\n♻️Airdrop/Bounty: 5,000,000,000,000 ALK.\n♻️Burning: THE REST.`
 
 const SoyToken = () => {
     const { t } = useTranslation()
