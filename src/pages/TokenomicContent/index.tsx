@@ -32,27 +32,32 @@ const TokenomicContent = () => {
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                  
+                    <Text color='#767676'>{t('✅ Tax fees')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    
+                    <Text color='#767676'>{t('4% on Buy')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    
+                    <Text color='#767676'>{t('4% on Sell')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                   
+                    <Text color='#767676'>{t('✅ Fees Distribution Phases Details')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                  
+                    <Text color='#767676'>{t('2% to DEV wallet')}</Text>
+                </Row>
+                <Spacer height="20px" />
+                <Row>
+                    <Circle />
+                    <Text color='#767676'>{t('2% to Marketing wallet')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row2>
@@ -65,9 +70,9 @@ const TokenomicContent = () => {
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('✅ Tax fees')}</SubTitle>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('4% on Buy')}</Text>
+                <Text color='#767676'>{t('2% on Buy')}</Text>
                 <Spacer height="20px" />
-                <Text color='#767676'>{t('4% on Sell')}</Text>
+                <Text color='#767676'>{t('2% on Sell')}</Text>
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('')}</Text>
                 <Spacer height="40px" />
