@@ -68,26 +68,26 @@ const TokenomicContent = () => {
                     <Text color={Theme.colors.primary}><b>{t('')}</b><Text2 color='#767676'>&nbsp;{t('')}</Text2></Text>
                 </Row2>
                 <Spacer height="40px" />
-                <SubTitle color={Theme.colors.bgscondary}>{t('✅ Tax fees')}</SubTitle>
+                <SubTitle color={Theme.colors.bgscondary}>{t('')}</SubTitle>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('2% on Buy')}</Text>
+                <Text color='#767676'>{t('')}</Text>
                 <Spacer height="20px" />
-                <Text color='#767676'>{t('2% on Sell')}</Text>
-                <Spacer height="40px" />
                 <Text color='#767676'>{t('')}</Text>
                 <Spacer height="40px" />
                 <Text color='#767676'>{t('')}</Text>
                 <Spacer height="40px" />
-                <SubTitle color={Theme.colors.bgscondary}>{t('✅ Fees Distribution Phases Details')}</SubTitle>
+                <Text color='#767676'>{t('')}</Text>
+                <Spacer height="40px" />
+                <SubTitle color={Theme.colors.bgscondary}>{t('')}</SubTitle>
                 <Spacer height="40px" />
                 <Row3>
                     <Text3 color={Theme.colors.primary}><b>{t('')}</b>&nbsp;&nbsp;&nbsp;</Text3>
                     <Text color='#767676'>&nbsp;{t('')}</Text>
                 </Row3>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('2% to DEV wallet')}</Text>
+                <Text color='#767676'>{t('')}</Text>
                 <Spacer height="40px" />
-                <Text color='#767676'>{t('2% to Marketing wallet')}</Text>
+                <Text color='#767676'>{t('')}</Text>
                 <Spacer height="40px" />
                 <SubTitle color={Theme.colors.bgscondary}>{t('')}</SubTitle>
                 <Spacer height="40px" />
