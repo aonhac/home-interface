@@ -52,12 +52,12 @@ const TokenomicContent = () => {
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('2% to DEV wallet')}</Text>
+                    <Text color='#767676'>{t('2% to Marketing wallet')}</Text>
                 </Row>
                 <Spacer height="20px" />
                 <Row>
                     <Circle />
-                    <Text color='#767676'>{t('2% to Marketing wallet')}</Text>
+                    <Text color='#767676'>{t('1% to Dev wallet')}</Text>
                 </Row>
                 <Spacer height="20px" />
                  <Row>
