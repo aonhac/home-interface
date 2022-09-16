@@ -60,6 +60,10 @@ const TokenomicContent = () => {
                     <Text color='#767676'>{t('2% to Marketing wallet')}</Text>
                 </Row>
                 <Spacer height="20px" />
+                 <Row>
+                    <Circle />
+                    <Text color='#767676'>{t('1% Reward for holder')}</Text>
+                </Row>
                 <Row2>
                     <Text color={Theme.colors.primary}><b>{t('')}</b><Text2 color='#767676'>&nbsp;{t('')}</Text2></Text>
                 </Row2>
