@@ -91,8 +91,8 @@ const CommunityMob = () => {
                         <MarkPointImg sw={innerW} src={Assets.etc} alt="" data-aos="fade-zoom-in"/>
                     </Row2>
                     <TextDivETH>
-                        <Title align="center" data-aos="fade-zoom-in">{t('Ethereum')}</Title>
-                        <Title align="center" data-aos="fade-zoom-in">{t('Classic')}</Title>
+                        <Title align="center" data-aos="fade-zoom-in">{t('Polygon')}</Title>
+                        <Title align="center" data-aos="fade-zoom-in">{t('Network')}</Title>
                     </TextDivETH>
                 </CLOSection>
                 <StarLeftImg src={Assets.starclo} alt=""/>
