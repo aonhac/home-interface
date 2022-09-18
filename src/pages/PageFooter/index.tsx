@@ -86,7 +86,7 @@ const PageFooter = () => {
                                 <StyledLi2 href="https://t.me/AlaskaInuGlobal" target="_blank"><Telegram /></StyledLi2>
                                 <StyledLi2 href="https://twitter.com/AlaskaInu_bsc" target="_blank"><Twitter /></StyledLi2>
                                 <StyledLi2 href="https://www.reddit.com/user/AlaskaInubsc" target="_blank"><Redit /></StyledLi2>
-                                <StyledLi2 href="https://www.facebook.com/AlaskaInubsc/" target="_blank"><Facebook /></StyledLi2>
+                                <StyledLi2 href="https://www.facebook.com/AlaskaInu.Finance/" target="_blank"><Facebook /></StyledLi2>
                                 <StyledLi2 href="https://medium.com/@AlaskaInubsc" target="_blank"><Medium/></StyledLi2>
                             </Row>                    
                         </Itemdiv>
@@ -146,7 +146,7 @@ const PageFooter = () => {
                                 <StyledLi2 href="https://t.me/AlaskaInuGlobal" target="_blank"><Telegram /></StyledLi2>
                                 <StyledLi2 href="https://twitter.com/AlaskaInu_bsc" target="_blank"><Twitter /></StyledLi2>
                                 <StyledLi2 href="https://www.reddit.com/user/AlaskaInubsc" target="_blank"><Redit /></StyledLi2>
-                                <StyledLi2 href="https://www.facebook.com/AlaskaInubsc/" target="_blank"><Facebook /></StyledLi2>
+                                <StyledLi2 href="https://www.facebook.com/AlaskaInu.Finance/" target="_blank"><Facebook /></StyledLi2>
                                 <StyledLi2 href="https://medium.com/@AlaskaInubsc" target="_blank"><Medium/></StyledLi2>
                         </Row>                    
                     </div>
