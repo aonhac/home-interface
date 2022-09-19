@@ -73,11 +73,11 @@ const PageFooter = () => {
                             <Spacer height="10px" />
                             <StyledLi href="https://github.com/ContractChecker/audits/blob/main/AlaskaInu_Token_0x4689Bf06862d03ab26b77bf53421a362AF80D802_Smart_Contract_Security_Audit_By_ContractChecker.pdf" target="_blank">{t('Platform Audit Report')}</StyledLi>
                             <Spacer height="10px" />
-                            <StyledLi href="https://" target="_blank">{t('Bug Bounty Report (To come)')}</StyledLi>
+                            <StyledLi href="https://t.me/Nick_Alaska" target="_blank">{t('Bug Bounty Report (To come)')}</StyledLi>
                             <Spacer height="10px" />
-                            <StyledLi href="https://github.com/ContractChecker/" target="_blank">{t('Platform KYC Report')}</StyledLi>
+                            <StyledLi href="https://github.com/ContractChecker/SAFU/blob/main/AlaskaInu_0x4689Bf06862d03ab26b77bf53421a362AF80D802_SAFU_Certificate_By_ContractChecker.pdf" target="_blank">{t('Platform KYC Report')}</StyledLi>
                             <Spacer height="10px" />
-                            <StyledLi href="https://github.com/ContractChecker/audits/blob/main/AlaskaInu_Token_0x4689Bf06862d03ab26b77bf53421a362AF80D802_Smart_Contract_Security_Audit_By_ContractChecker.pdf" target="_blank">{t('Platform Safe Report')}</StyledLi>
+                            <StyledLi href="https://github.com/ContractChecker/SAFU/blob/main/AlaskaInu_0x4689Bf06862d03ab26b77bf53421a362AF80D802_SAFU_Certificate_By_ContractChecker.pdf" target="_blank">{t('Platform SaFu Report')}</StyledLi>
                         </Itemdiv2>
                         <Itemdiv>
                             <Text align="center"><b>{t('Social Media')}</b></Text>
@@ -133,11 +133,11 @@ const PageFooter = () => {
                         <Spacer height="10px" />
                         <StyledLi href="https://github.com/ContractChecker/audits/blob/main/AlaskaInu_Token_0x4689Bf06862d03ab26b77bf53421a362AF80D802_Smart_Contract_Security_Audit_By_ContractChecker.pdf" target="_blank">{t('Platform Audit Report')}</StyledLi>
                         <Spacer height="10px" />
-                        <StyledLi href="https://" target="_blank">{t('Bug Bounty Report (To come)')}</StyledLi>
+                        <StyledLi href="https://t.me/Nick_Alaska" target="_blank">{t('Bug Bounty Report (To come)')}</StyledLi>
                         <Spacer height="10px" />
-                        <StyledLi href="https://github.com/ContractChecker/" target="_blank">{t('Platform KYC Report')}</StyledLi>
+                        <StyledLi href="https://github.com/ContractChecker/SAFU/blob/main/AlaskaInu_0x4689Bf06862d03ab26b77bf53421a362AF80D802_SAFU_Certificate_By_ContractChecker.pdf" target="_blank">{t('Platform KYC Report')}</StyledLi>
                         <Spacer height="10px" />
-                        <StyledLi href="https://github.com/ContractChecker/audits/blob/main/AlaskaInu_Token_0x4689Bf06862d03ab26b77bf53421a362AF80D802_Smart_Contract_Security_Audit_By_ContractChecker.pdf" target="_blank">{t('Platform Safu Report')}</StyledLi>
+                        <StyledLi href="https://github.com/ContractChecker/SAFU/blob/main/AlaskaInu_0x4689Bf06862d03ab26b77bf53421a362AF80D802_SAFU_Certificate_By_ContractChecker.pdf" target="_blank">{t('Platform SaFu Report')}</StyledLi>
                     </div>
                     <div>
                         <Text align="center"><b>{t('Social Media')}</b></Text>
