@@ -44,7 +44,7 @@ const Header: React.FC = () => {
                     <Li>
                         <Nav.Link href="https://app.alaskainu.finance" target="_blank">{t('Staking Testnet')}</Nav.Link>
                     </Li>
-                    <LiButton href="https://www.pinksale.finance/launchpads?chain=BSC" target="_blank">
+                    <LiButton href="https://www.pinksale.finance/launchpad/0x14eE31a9BA498EE91FfD921F5fa677F777aCab66?chain=BSC" target="_blank">
                         {t('Alaska Inu Fairlaunch')}
                     </LiButton>
                     <Li>
