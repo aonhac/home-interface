@@ -58,9 +58,9 @@ const PageFooter = () => {
                             <Spacer height="10px" />
                             <StyledLi href="" target="_blank">{t('')}</StyledLi>
                             <Spacer height="10px" />
-                            <StyledLi href="https://github.com/alaskainu/" target="_blank">{t('Github')}</StyledLi>
+                            <StyledLi href="https://github.com/AlaskaInubsc" target="_blank">{t('Github')}</StyledLi>
                             <Spacer height="10px" />
-                            <StyledLi href="https://bscscan.com/" target="_blank">{t('Contract')}</StyledLi>
+                            <StyledLi href="https://bscscan.com/token/0x4689Bf06862d03ab26b77bf53421a362AF80D802" target="_blank">{t('Contract')}</StyledLi>
                             <Spacer height="10px" />
                             <StyledLi href="" target="_blank">{t('')}</StyledLi>
                         </Itemdiv>
@@ -122,9 +122,9 @@ const PageFooter = () => {
                         <Spacer height="10px" />
                         <StyledLi href="" target="_blank">{t('')}</StyledLi>
                         <Spacer height="10px" />
-                        <StyledLi href="https://github.com/alaskainu/" target="_blank">{t('Github')}</StyledLi>
+                        <StyledLi href="https://github.com/AlaskaInubsc" target="_blank">{t('Github')}</StyledLi>
                         <Spacer height="10px" />
-                        <StyledLi href="https://bscscan.com/" target="_blank">{t('Contract')}</StyledLi>
+                        <StyledLi href="https://bscscan.com/token/0x4689Bf06862d03ab26b77bf53421a362AF80D802" target="_blank">{t('Contract')}</StyledLi>
                         <Spacer height="10px" />
                         <StyledLi href="" target="_blank">{t('')}</StyledLi>
                     </div>
