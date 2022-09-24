@@ -23,10 +23,10 @@ const OneToken = () => {
                 </Text>
                 <Spacer height="50px" />
                 <LiButton
-                    href="https://app.alaskainu.finance"
+                    href="https://alaskainu.gitbook.io/alaskainu/"
                     target="_blank"
                 >
-                    {t('Yield Farming')}
+                    {t('Gitbook')}
                 </LiButton>
             </Wrapper>
             
