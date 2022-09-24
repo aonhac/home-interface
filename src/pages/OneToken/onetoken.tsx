@@ -26,7 +26,7 @@ const OneToken = () => {
                     href="https://alaskainu.gitbook.io/alaskainu/"
                     target="_blank"
                 >
-                    {t('Gitbook')}
+                    {t('Whitepaper')}
                 </LiButton>
             </Wrapper>
             
