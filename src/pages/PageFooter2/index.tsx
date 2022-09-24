@@ -51,7 +51,7 @@ const PageFooter = () => {
                             <Spacer height="10px" />
                             <StyledLi href="/tokenomic">{t('Tokenomic')}</StyledLi>
                             <Spacer height="10px" />
-                            <StyledLi href="" target="_blank">{t('')}</StyledLi>
+                            <StyledLi href="https://alaskainu.gitbook.io/alaskainu/" target="_blank">{t('Gitbook')}</StyledLi>
                         </Itemdiv>
                         <Itemdiv>                            
                             <Text><b>{t('Resources')}</b></Text>
@@ -104,7 +104,7 @@ const PageFooter = () => {
                         <Spacer height="10px" />
                         <Text>{t('All rights reserved by')}</Text>
                         <Spacer height="5px" />
-                        <Text><b>{t('Dachshund Inu')}</b></Text>
+                        <Text><b>{t('Alaska Inu')}</b></Text>
                     </div>
                     <div>
                         <Text><b>{t('Alaska Inu')}</b></Text>
@@ -115,7 +115,7 @@ const PageFooter = () => {
                         <Spacer height="10px" />
                         <StyledLi href="/tokenomic">{t('Tokenomic')}</StyledLi>
                         <Spacer height="10px" />
-                        <StyledLi href="" target="_blank">{t('')}</StyledLi>
+                        <StyledLi href="https://alaskainu.gitbook.io/alaskainu/" target="_blank">{t('Gitbook')}</StyledLi>
                     </div>
                     <div>
                         <Text><b>{t('Resources')}</b></Text>
